@@ -1,0 +1,10 @@
+# Non-Crate Bodies
+# Octane, All, False, None, Black
+Neptune_uncommon, Black, false
+Beta_reward_gold_nugget, none, false
+Octane, White, False, None
+Merc, White, False
+Breakout, White, False
+# Non-Crate Boost
+Sparkles, White, False
+Standard, Black, False

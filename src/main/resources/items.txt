@@ -1,0 +1,114 @@
+# Non-Crate Bodies
+Octane, All, False, None, Black
+Dominus, All, False, None, Black
+Merc, White, False
+Breakout, White, False
+# Non-Crate Boost
+Sparkles, White, False
+Standard, Black, False
+Ion, Black, False
+Ion, White, False
+# Non-Crate Wheels
+Alchemist_uncommon, Black, false
+Alchemist_exotic, Black, false
+Dieci_uncommon, Black, false
+Dieci_exotic, Black, false
+Octavian_uncommon, Black, false
+Octavian_exotic, Black, false
+Neptune_uncommon, Black, false
+Neptune_exotic, Black, false
+Oem_uncommon, Black, false
+Oem_exotic, Black, false
+Spyder_uncommon, Black, false
+Spyder_exotic, Black, false
+Stern_uncommon, Black, false
+Stern_exotic, Black, false
+Tunica_uncommon, Black, false
+Tunica_exotic, Black, false
+Sunburst_uncommon, Black, false
+Sunburst_exotic, Black, false
+Veloce_uncommon, Black, false
+Veloce_exotic, Black, false
+Vortex_uncommon, Black, false
+Vortex_exotic, Black, false
+# RLCS Decals
+Octane_rlcs, White, false
+Octane_rlcs, Black, false
+Dominus_rlcs, White, false
+Dominus_rlcs, Black, false
+Breakout_rlcs, White, false
+Breakout_rlcs, Black, false
+Breakout_type_s_Rlcs, White, false
+Breakout_type_s_Rlcs, Black, false
+Dominus_gt_rlcs, White, false
+Dominus_gt_rlcs, Black, false
+Octane_zsr_rlcs, White, false
+Octane_zsr_rlcs, Black, false
+Octane_rlcs_x, White, false
+Fennec_rlcs_x, White, false
+Dominus_rlcs_x, White, false
+Octane_dune_racer, All, false
+Dominus_fantasmo, White, false
+Breakout_froggy, White, false
+Breakout_froggy, Black, false
+Octane_noooo, Black, false
+Breakout_what_a_save, White, false
+Dominus_savage, White, false
+Dominus_savage, Black, false
+Octane_nice_shot, White, false
+Breakout_nice_shot, White, false
+Octane_crl_northern, All, false, Cobalt
+Dominus_crl_eastern, All, false, fGreen
+Dominus_crl_southern, All, false
+Breakout_crl_western, Black, false
+Fennec_yorebands, White, false
+# RLCS Goal Explosion
+Ballistic, White, false
+Big_splash, none, false
+# RLCS Boost / Trail / Others
+Hot_rod, White, false
+Hot_rod, Black, false
+Blast_ray, White, false
+Blast_ray, Black, false
+EQ, All, false
+Helios, All, false
+Fusion, White, false
+Fusion, Black, false
+Crown, White, false
+# RLCS Wheels
+Apex, All, false
+Ninja, White, false
+Aether, White, false
+Razzle, White, false
+Razzle, Black, false
+Pyramidia, White, false
+Pyramidia, Black, false
+Decennium, White, false
+Decennium, Black, false
+Emerald, All, false, sBlue, Lime
+Mendoza, White, false
+Mendoza, Black, false
+Metalstar, White, false
+Metalstar, Black, false
+Patriarch, White, false
+Patriarch, White, false
+Decopunk, White, false
+Carbon, White, false
+# Alpha / Beta
+Alpha_reward_gold_cap, none, false
+Beta_reward_gold_nugget, none, false
+# Non crate BMD
+20xx, none, false
+Parallax, none, false
+Fire_god, none, false
+Heatwave, none, false
+Storm_watch, none, false
+Bubbly, none, false
+# Non crate BMG
+Hellfire, none, false
+# Blueprints
+Fennec, All, true, Black
+Zomba, White, true
+Dissolver, none, true
+Mainframe, White, true, Grey
+Dueling_dragons, none, true
