@@ -21,7 +21,7 @@ public class Main extends ListenerAdapter {
     public static void main(String[] args) throws LoginException, FileNotFoundException {
         long start = System.nanoTime();
         JDABuilder builder = new JDABuilder(AccountType.BOT);
-        String token = "NzkwNzM2NTQ3NzE2MjY4MDUz.X-E8zA.aGwnYUFopvf29GA9ppgeP0ohx9Y";
+        String token = "";
         JDA jda = JDABuilder.createDefault(token).build();
         jda.addEventListener(new Main());
 
